@@ -2,6 +2,7 @@
   "name": "todomvc",
   "version": "0.0.1",
   "private": true,
+  "homepage": "./",
   "devDependencies": {
     "react-scripts": "^2.0.2",
     "react-test-renderer": "^16.3.1"
